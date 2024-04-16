@@ -16,6 +16,7 @@ This project focuses on exploring and analysing wildfire activities in Australia
 ![JupyterNotebook](https://img.shields.io/badge/JupyterNotebook-FACCA7?style=for-the-badge&logo=Jupyter)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![seaborn](https://img.shields.io/badge/seaborn-86B4AD?style=for-the-badge)
+![Folium](https://img.shields.io/badge/Folium-F1F9E1?style=for-the-badge&logo=Folium)
 
 ## Dataset
 **Historical Wildfires**
